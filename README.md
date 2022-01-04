@@ -22,7 +22,7 @@ After making the desired changes, test it out by running `npm run start` from th
 ## Edit in GitPod
 Simply replace `YOUR_REPO_URL_HERE` in the following link and visit the page in your browser:
 
-https://gitpod.io/#`YOUR_REPO_URL_HERE`
+https://gitpod.io/#YOUR_REPO_URL_HERE
 
 For example, the source repo Gitpod URL looks like this:
 
